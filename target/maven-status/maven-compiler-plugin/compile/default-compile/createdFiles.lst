@@ -1,0 +1,4 @@
+org\mule\extension\passwordProtectedPdf\internal\PasswordProtectedPdfOperations.class
+org\mule\extension\passwordProtectedPdf\internal\PasswordProtectedPdfParameter.class
+org\mule\extension\passwordProtectedPdf\internal\PasswordProtectedPdfExtension.class
+org\mule\extension\passwordProtectedPdf\internal\PasswordProtectedPdfConfiguration.class
